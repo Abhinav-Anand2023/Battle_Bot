@@ -62,6 +62,5 @@ This is a **battle bot (RC car)** designed for high-speed maneuverability and co
 *()*
 
 ## 🤝 Contributors
-- **Dheerendra-Amrute**
-- **Abhinav-Anand2023**
-- 
+- **Dheerendra-Amrute** *(https://github.com/Dheerendra-Amrute)*
+- **Abhinav-Anand2023** *(https://github.com/Abhinav-Anand2023)*
